@@ -1,3 +1,4 @@
 php:
     line_ending: auto
     whitespace_after_function: newline
+    doc_function_whitespace: no_space
