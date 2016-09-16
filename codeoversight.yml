@@ -1,5 +1,5 @@
 php:
-    line_ending: crlf
+    line_ending: lf
     align_array_elements: space
     align_doc_tags: space
     align_variables: space
