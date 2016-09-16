@@ -1,4 +1,4 @@
 php:
-    line_ending: crlf
+    line_ending: cr
     whitespace_after_function: newline
     doc_function_whitespace: no_space
